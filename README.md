@@ -26,3 +26,4 @@
 - *Globalización*
 - *Cambios Tecnológicos*
 - *Sostenibilidad*
+- mapa conceptual
