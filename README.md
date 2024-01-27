@@ -25,5 +25,4 @@
 **Desafíos y Futuro**
 - *Globalización*
 - *Cambios Tecnológicos*
-- *Sostenibilidad* G
-Mapa
+- *Sostenibilidad*
